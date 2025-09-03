@@ -19,3 +19,7 @@ This project is a LINE bot designed to predict lung diseases from X-ray images u
 
 ## Usage
 Send an X-ray image to the bot, and it will classify the image into one of the three categories.
+
+git add your_model.h5
+git commit -m "Add model file"
+git push
